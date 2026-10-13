@@ -1,0 +1,10 @@
+15:49:41. 720 [main] %-51evel testCases.TC_001AccountRegistrationTest -Getting account creation confirmation message
+15:49:43. 655 [main] %-51evel testCases.TC_001AccountRegistrationTest -Confirmation message received: Your Account Has Been Created!
+15:49:43. 663 [main] %-51evel testCases.TC_001AccountRegistrationTest -Account Registration Test PASSED
+15:49:43. 663 [main] %-51evel testCases.TC_001AccountRegistrationTest -===== Account Registration Test Completed =====
+15:49:44. 838 [main] %-51evel org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.jq.Main@3013909b: 67 ms
+15:49:44. 839 [main] %-51evel org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.FailedReporter@2a49fe: 1 ms
+15:49:44. 848 [main] %-51evel org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.XMLReporter@489543a6: 9 ms
+15:49:44. 858 [main] %-51evel org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.EmailableReporter2@659a2455: 10 ms
+15:49:44. 864 [main] %-51evel org.testng.internal.Utils -[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1bc425e7: 6 ms
+15:49:44. 865 [main] %-51evel org.testng.internal.Utils -[TestNG] Time taken by org.testng.internal.ExitCodeListener@4b2a30d: 1 ms

@@ -1,0 +1,47 @@
+15:49:21. 786 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:49:21. 796 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+15:49:21. 798 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 798 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 799 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 799 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 800 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 800 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 805 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+15:49:21. 818 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 12 ms.
+15:49:21. 820 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 820 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 822 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 822 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 823 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 823 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 826 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 827 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 827 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 827 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 829 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 829 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 829 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 829 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 830 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 831 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:49:21. 832 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 832 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 832 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:49:21. 832 [main] %-51evel org.testng.internal.Utils -[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+15:49:21. 843 [main] %-51evel org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\patil\AppData\Local\Temp\testng-eclipse--2061542548\testng-customsuite.xml
+
+15:49:21. 871 [main] %-51evel org.testng.internal.Utils -[Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+15:49:36. 889 [main] %-51evel testCases.TC_001AccountRegistrationTest -===== Account Registration Test Started =====
+15:49:36. 898 [main] %-51evel testCases.TC_001AccountRegistrationTest -Creating HomePage object
+15:49:37. 104 [main] %-51evel testCases.TC_001AccountRegistrationTest -Clicking on My Account
+15:49:37. 346 [main] %-51evel testCases.TC_001AccountRegistrationTest -Clicking on Register
+15:49:39. 208 [main] %-51evel testCases.TC_001AccountRegistrationTest -Creating AccountRegisterPage object
+15:49:39. 443 [main] %-51evel testCases.TC_001AccountRegistrationTest -Random password generated
+15:49:39. 444 [main] %-51evel testCases.TC_001AccountRegistrationTest -Entering First Name: CZRQA
+15:49:39. 743 [main] %-51evel testCases.TC_001AccountRegistrationTest -Entering Last Name: KKYUC
+15:49:40. 747 [main] %-51evel testCases.TC_001AccountRegistrationTest -Entering Email: FDJBa@gmai.com
+15:49:41. 068 [main] %-51evel testCases.TC_001AccountRegistrationTest -Entering Password
+15:49:41. 449 [main] %-51evel testCases.TC_001AccountRegistrationTest -Selecting Newsletter option
+15:49:41. 530 [main] %-51evel testCases.TC_001AccountRegistrationTest -Accepting Privacy Policy
+15:49:41. 610 [main] %-51evel testCases.TC_001AccountRegistrationTest -Clicking Continue button
